@@ -30,8 +30,8 @@
 
     <application
         android:name="androidx.multidex.MultiDexApplication"
-        android:icon="@drawable/logo_mlkit"
-        android:label="@string/app_name"
+        android:icon="@drawable/logo"
+        android:label="Sahayak"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat" >
         <meta-data
