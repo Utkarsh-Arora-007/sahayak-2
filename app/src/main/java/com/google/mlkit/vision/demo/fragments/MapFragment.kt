@@ -78,7 +78,6 @@ class MapFragment : Fragment(), OnMapReadyCallback,GoogleMap.OnMarkerClickListen
 
     }
 
-    override fun onMarkerClick(p0: Marker): Boolean =false
     override fun onMapReady(googleMap: GoogleMap) {
         mMap=googleMap
 
@@ -87,5 +86,5 @@ class MapFragment : Fragment(), OnMapReadyCallback,GoogleMap.OnMarkerClickListen
         setUpMap()
     }
 
-
+    override fun onMarkerClick(p0: Marker): Boolean=false
 }
