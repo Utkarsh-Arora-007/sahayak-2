@@ -62,9 +62,7 @@ Today a disabled person is unable to browse and identify nearby locations having
 ## Contributors <a id="10">
    
 <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/9b23c66cb98e04a8d3a638c03d22e528b8e38399/li.png">   
-   <ul> <li> <a href=""> Anubhav Yadav </a> </li> 
-<li> <a href="https://www.linkedin.com/in/hanu-agarwal-966212200"> Hanu Agarwal </a> </li> 
-      <li> <a href ="https://www.linkedin.com/in/shivendu-mishra-94ba36200"> Shivendu Mishra </a> </li> 
+     <li> <a href ="https://www.linkedin.com/in/shivendu-mishra-94ba36200"> Shivendu Mishra </a> </li> 
       <li> <a href="https://www.linkedin.com/in/utkarsh-arora-1a8890201"> Utkarsh Arora </li>
    </ul>
   </a>
